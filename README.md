@@ -1,24 +1,19 @@
-# FinTech Module 18 Challenge: Blockchain-based ledger system with a user-friendly web interface
+# FinTech Module 20 Challenge: Solidity smart contract with ability to deposit and withdraw funds from the account
 
 
-Blockchain-based ledger system, complete with a user-friendly web interface. This ledger allows partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
+In this challenge we:
 
-The steps for this Challenge are divided into the following sections:
-
- - Create a Record Data Class
- - Modify the Existing Block Data Class to Store Record Data
- - Add Relevant User Inputs to the Streamlit Interface
- - Test the PyChain Ledger by Storing Records
+ - Created a Joint Savings Account Contract in Solidity
+ - Compiled and Deploy Your Contract in the JavaScript VM
+ - Interacted with Your Deployed Smart Contract
 
 ---
 
 ## Usage
 
-To use the Application, run the Streamlit application by using `streamlit run pychain.py` 
 
-![1](1.png)
-![2](2.png)
-![3](3.png)
+
+
 
 ---
 
